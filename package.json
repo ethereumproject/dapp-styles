@@ -1,6 +1,6 @@
 {
   "name": "dapp-styles",
-  "namespace": "ethereum",
+  "namespace": "etc",
   "version": "0.5.6",
   "description": "CSS/LESS framework for dapps",
   "directories": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethereum/dapp-styles.git"
+    "url": "https://github.com/ethereumproject/dapp-styles.git"
   },
-  "homepage": "https://github.com/ethereum/dapp-styles",
+  "homepage": "https://github.com/ethereumproject/dapp-styles",
   "bugs": {
-    "url": "https://github.com/ethereum/dapp-styles/issues"
+    "url": "https://github.com/ethereumproject/dapp-styles/issues"
   },
   "keywords": [
-    "ethereum",
+    "etc",
     "dapp",
     "styles"
   ],
