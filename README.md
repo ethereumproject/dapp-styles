@@ -8,13 +8,13 @@ These styles give a simple basic layout for your Ðapps.
 
 The Ethereum Dapp design style is meant to ease the task of designing clear and good looking App interfaces. It uses as few images as possible for the UI and instead uses colors and icons for differentiating hierarchies. In order to make each Dapp unique and help the user quickly realize where he is even when navigating different instances of the same app, we use GeoPatterns in backgrounds when they refer to a unique instance of something. The fonts used are all open source, Source Sans, from Adobe which has a rich family and multiple styles and Montserrat for bold and strong titles. We also use a font for vector icons to ensure scalability and easy customization.
 
-Most apps are different variations of some simple elements: 
+Most apps are different variations of some simple elements:
 
 * Use the header on the top with tabs, when your Dapp uses a few constant sections (ie. send and receive)
 
 * Use the left sidebar when your Dapp has a large number of sources for content (ie. a list of chats)
 
-* Use the right action bar for actions to be done with the current content 
+* Use the right action bar for actions to be done with the current content
 
 * Use Dapp-overflow if you want the sections to scroll independently and to remain fixed on the screen
 

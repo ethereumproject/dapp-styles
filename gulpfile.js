@@ -11,10 +11,9 @@ gulp.task('less', function () {
     .pipe(gulp.dest('./dist'));
 });
 
- 
 gulp.task('replaceUrl', ['less'],function(){
   gulp.src(['./dist/dapp-styles.css'])
-    .pipe(replace(/packages\/ethereum_dapp-styles\//g, ''))
+    .pipe(replace(/packages\/dapp-styles\//g, ''))
     .pipe(gulp.dest('./dist'));
 });
 
