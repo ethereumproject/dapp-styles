@@ -2,7 +2,7 @@ Package.describe({
   name: 'etc:dapp-styles',
   summary: 'CSS/LESS framework for dapps',
   version: '0.5.6',
-  git: 'http://github.com/ethereumproject/dapp-styles'
+  git: 'http://github.com/ethereumproject/meteor-dapp-styles'
 });
 
 Package.onUse(function(api) {
@@ -63,6 +63,6 @@ Package.onUse(function(api) {
 
 // Package.onTest(function(api) {
 //   api.use('tinytest');
-//   api.use('ethereum:blocks');
+//   api.use('etc:blocks');
 //   api.addFiles('blocks-tests.js');
 // });
