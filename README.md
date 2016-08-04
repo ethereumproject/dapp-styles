@@ -35,11 +35,11 @@ Just link the `dapp-styles.less` in your apps main LESS file.
 To use it in a Meteor app add the `less` package:
 
     $ meteor add less
-    $ meteor add ethereum:dapp-styles
+    $ meteor add etc:dapp-styles
 
 Adn add the following to your main less file:
 
-    @import '{ethereum:dapp-styles}/dapp-styles.less';
+    @import '{etc:dapp-styles}/dapp-styles.less';
 
 
 
