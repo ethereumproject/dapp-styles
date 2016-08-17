@@ -208,7 +208,7 @@ TODO
 
 A list of accounts with name and address. Either clickable, with the `<button>` tag, or as simple list.
 
-The `a.dapp-identicon` can be an image icon. (If you use the `ethereum:elements` Meteor package, you can use `{{> dapp_identicon identity=address class="dapp-small"}}`)
+The `a.dapp-identicon` can be an image icon. (If you use the `ethereumclassic:elements` Meteor package, you can use `{{> dapp_identicon identity=address class="dapp-small"}}`)
 
 The `<span>` is optional.
 
