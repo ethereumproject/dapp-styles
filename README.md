@@ -35,11 +35,11 @@ Just link the `dapp-styles.less` in your apps main LESS file.
 To use it in a Meteor app add the `less` package:
 
     $ meteor add less
-    $ meteor add etc:dapp-styles
+    $ meteor add ethereumclassic:dapp-styles
 
 Adn add the following to your main less file:
 
-    @import '{etc:dapp-styles}/dapp-styles.less';
+    @import '{ethereumclassic:dapp-styles}/dapp-styles.less';
 
 
 
@@ -72,11 +72,11 @@ A full layout consists of the following HTML elements:
 ```html
 
 <header class="dapp-header">
-    
+
 </header>
 
 <div class="dapp-flex-content">
-    
+
     <!-- aside -->
     <aside class="dapp-aside">
 
@@ -84,7 +84,6 @@ A full layout consists of the following HTML elements:
 
     <!-- content-->
     <main class="dapp-content">
-        
     </main>
 
     <!-- actionbar -->
@@ -96,7 +95,6 @@ A full layout consists of the following HTML elements:
 
 <!-- footer -->
 <footer class="dapp-footer">
-    
 </footer>
 
 ```
