@@ -63,6 +63,6 @@ Package.onUse(function(api) {
 
 // Package.onTest(function(api) {
 //   api.use('tinytest');
-//   api.use('etc:blocks');
+//   api.use('ethereumclassic:blocks');
 //   api.addFiles('blocks-tests.js');
 // });
